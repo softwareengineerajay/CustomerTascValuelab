@@ -5,18 +5,13 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
-using Task.Models;
+
 
 namespace Task.Controllers
 {
     public class ValuesController : ApiController
     {
-        Customer[] products = new Customer[]
-        {
-            new Customer { Id = 1, Name = "Tomato Soup", Category = "Groceries", Price = 1 },
-            new Customer { Id = 2, Name = "Yo-yo", Category = "Toys", Price = 3.75M },
-            new Customer { Id = 3, Name = "Hammer", Category = "Hardware", Price = 16.99M }
-        };
+      
         // Default folder    
 
         // GET api/values

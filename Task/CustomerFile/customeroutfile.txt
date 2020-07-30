@@ -1,0 +1,1 @@
+[{"Id":402,"Name":"Cheap Cars","Type":"2","Sales":14000.0,"saledate":"2013-12-20T00:00:00"},{"Id":501,"Name":"Louis Mann","Type":"2","Sales":213.66,"saledate":"2013-02-11T00:00:00"},{"Id":403,"Name":"XY Outlet","Type":"2","Sales":123400.12,"saledate":"2013-07-14T00:00:00"},{"Id":401,"Name":"John Doe","Type":"1","Sales":100.23,"saledate":"2013-05-01T00:00:00"}]
